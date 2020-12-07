@@ -136,7 +136,11 @@ main {
   top: 39.3rem;
 }
 .btn--hold {
-  top: 46.1rem;
+  top: 45.9rem;
+}
+
+.btn--info {
+  top: 52rem;
 }
 
 .btn:active {
